@@ -21,7 +21,7 @@ while(true) {
 		System.out.print("String? \n");
 		 String usrInput = input.nextLine();
 		if (usrInput == "Goodbye") {
-			System.exit(0);
+			System.exit(0); // program termination
 		}
 
 		
