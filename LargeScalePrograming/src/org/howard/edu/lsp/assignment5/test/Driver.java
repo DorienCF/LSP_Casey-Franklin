@@ -2,7 +2,7 @@ package org.howard.edu.lsp.assignment5.test;
 
 import org.howard.edu.lsp.assignment5.implementation.IntegerSet;
 import org.howard.edu.lsp.assignment5.implementation.IntegerSet.IntegerSetException;
-import org.w3c.dom.events.EventException;
+//import org.w3c.dom.events.EventException;
 
 public class Driver {
 	public static void main(String[] args) {
