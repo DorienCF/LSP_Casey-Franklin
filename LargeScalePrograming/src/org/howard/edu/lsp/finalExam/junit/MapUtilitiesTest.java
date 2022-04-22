@@ -27,8 +27,8 @@ class MapUtilitiesTest {
 	public void Test001 () throws NullMapException {  // empty test
 		
 		System.out.println("Test 001");
-		System.out.println("Value of Common Key Value Pairs:" + MapUtil.commonKeyValuePairs(map1, map2)+  "\n");
-		assertEquals (0,MapUtil.commonKeyValuePairs(map1, map2));
+		System.out.println("Value of Common Key Value Pairs:" + MapUtilities.commonKeyValuePairs(map1, map2)+  "\n");
+		assertEquals (0,MapUtilities.commonKeyValuePairs(map1, map2));
 		
 	
 		
